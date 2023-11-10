@@ -1,0 +1,55 @@
+@media (max-width:1024px) {
+    h1 {
+        margin-bottom: 1.5rem !important;
+    }
+}
+
+@media (max-width:991px) {
+    h1 {
+        font-size: 2rem;
+        margin-bottom: .7rem;
+    }
+
+    .text-content {
+        width: 100%;
+    }
+
+    .navigation-wrap{
+        text-align: center;
+    }
+
+    .navigation-wrap .nav-link{
+        line-height: 1.8rem;
+    }
+}
+
+
+@media (max-width:767px) {
+    h1{
+        font-size: 2rem;
+    }
+
+    h2{
+        font-size: 1.6rem;
+        line-height: 2.5rem;
+    }
+    .wrappr{
+        padding-block: 3rem;
+    }
+}
+
+@media (max-width:330px) {
+    h1{
+        font-size: 1.5rem;
+    }
+    p{
+        font-size: 14px;
+    }
+    .main-btn{
+        padding: .5rem;
+    }
+    .white-btn{
+        padding: .5rem;
+    }
+}
+
